@@ -25,7 +25,7 @@ const DEFAULT_FOOTER = {
   newsletterTitle: 'Stay Updated',
   newsletterPlaceholder: 'Enter your email',
   newsletterDisclaimer: 'Get the latest updates. No spam, unsubscribe anytime.',
-  section1Title: 'Product',
+  section1Title: 'Our Product',
   section2Title: 'Company',
   section3Title: 'Resources',
   section4Title: 'Legal',
